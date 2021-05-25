@@ -1,0 +1,10 @@
+add wave -position end  sim:/monitor/red
+add wave -position end  sim:/monitor/green
+add wave -position end  sim:/monitor/blue
+add wave -position end  sim:/monitor/coerced_rgb
+add wave -position end  sim:/monitor/hsync
+add wave -position end  sim:/monitor/vsync
+add wave -position end  sim:/monitor/sys_clk
+add wave -position end  sim:/monitor/protocol_clock
+add wave -position end  sim:/monitor/reset
+add wave -position end  sim:/monitor/c_switches
